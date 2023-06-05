@@ -1,10 +1,10 @@
 import streamlit as st
 
 def main():
-    st.title("sibal")
-    st.text('sibal')
-    st.header('sibal')
-    st.subheader('sibal')
+    st.title("LEE YONG JUN")
+    st.text('hello my homepage')
+    st.header('header')
+    st.subheader('subheader')
 
     st.markdown('# zzzz')
     st.markdown('# zzzz')
